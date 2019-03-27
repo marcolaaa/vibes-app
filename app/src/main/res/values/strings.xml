@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vibes App</string>
+    <string name="generic_error_message">Our services are unavailable right now, but don\'t worry, it will be fixed soon. Sorry for the inconvenient.</string>
+</resources>
